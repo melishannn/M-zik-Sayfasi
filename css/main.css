@@ -3,6 +3,7 @@ body{
 }
 .Basliklar h3{
     margin: 1.2em;
+    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color:tomato;
 }
